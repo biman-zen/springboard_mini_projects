@@ -1,2 +1,1 @@
-## Data Analysis
-The following data analysis was part of a analysis certification exam. 
+This analysis was part of a data analyst certification exam.
