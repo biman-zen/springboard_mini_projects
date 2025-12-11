@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biman</h1>
+<h2 align="center">Hi 👋, I'm Biman</h1>
 <h3 align="center">A burdgeoning data scientist.</h3>
 <h3 align="center">These are the case studies I have gone through in the data science program.</h3>
 
