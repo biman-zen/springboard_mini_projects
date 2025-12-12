@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Biman</h1>
 <h3 align="center">A burdgeoning data scientist.</h3>
-<h3 align="center">These are the case studies I have gone through in the data science program.</h3>
+This directory is a sample of data science case studies that I have gone through. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
